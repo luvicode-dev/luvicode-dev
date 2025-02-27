@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luvicode-dev
 - 👀 I’m interested in Java, Angular , DB  ...
 - 🌱 I’m currently learning  Java for microservices ...
-- 🖥️ Next project to develop: Landing Page brand presentation
+- 🖥️ Main Goal : Upload 1000 mini projects / ()
 
 <!---
 luvicode-dev/luvicode-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
